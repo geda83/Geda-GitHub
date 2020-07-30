@@ -9,7 +9,7 @@ class BabysitterKataOHTest {
 	@Test
 	void testExtractedLocalTime() {
 		BabysitterKataOH b=new BabysitterKataOH();
-		assertEquals(128, b.extractedLocalTime());
+		assertEquals(140, b.extractedLocalTime());
 		
 		}
 
